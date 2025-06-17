@@ -1,57 +1,61 @@
-## Hey I'm Antonio lover of programming and books. 
+# 👋 Hey there, I'm Antonio Filho
 
-I really enjoy challenges in my life and when I am reading or programming I do it because I need to use and explore my abilities, whether it is to imagine a senary or even to create possibilities, and all of these challenges my capacity to interpret.
+### Backend-focused Full Stack Engineer | C# .NET & Node.js Enthusiast | AWS Cloud Practitioner
 
-<div style="display:flex; flex-wrap:wrap;">
+---
 
-<div  style="margin-right: 40px;">
+With **6+ years of experience**, I build scalable, reliable, and maintainable web solutions that impact real users — from healthcare platforms to energy simulations. I’m passionate about crafting clean code, optimizing backend performance, and exploring new technologies to stay ahead.
 
-## 📚 Languages Programming:
+---
 
-- JavaScript.
-- TypeScript.
-- Python.
-- Swift (**Learning Process**).
+## 🚀 What I Do
 
-</div>
+- Design and implement **robust backend systems** using **C# (.NET Core)** and **Node.js**  
+- Build **scalable microservices** deployed on **AWS** and **Azure**  
+- Develop **full stack applications** leveraging React, Next.js, and React Native  
+- Optimize cloud infrastructure to reduce operational costs and improve efficiency  
+- Automate CI/CD pipelines and containerize apps with Docker
 
-<div  style="margin-right: 40px;">
+---
 
-## 🤓 Some Frameworks:
+## 💻 Tech Stack
 
-- AdonisJS
-- ExpressJS
-- NestJS
-- ReactJS.
-  - RemixJS.
-  - NextJS.
-- ReactNative.
-  - Expo.
-- FlaskAPI
-- FastAPI
+### Languages
+- C# (.NET Core)  
+- JavaScript / TypeScript  
 
-</div>
+### Frameworks & Libraries
+- ASP.NET Core / MVC  
+- Node.js (Express, NestJS)  
+- React (Next.js, Remix)  
+- React Native (Expo)  
 
-<div  style="margin-right: 40px;">
+### Cloud & DevOps
+- AWS (Lambda, RDS, SQS, CloudWatch)  
+- Azure  
+- Docker & Docker Compose  
+- Redis, RabbitMQ  
 
-## 🛠 Tools:
+### Databases
+- PostgreSQL, SQL Server  
+- MongoDB
 
-- Visual Studio Code
-- Visual Studio Mode
-- PostgreSQL
-- PostMan
-- Thunder Client
+---
 
-</div>
+## 📚 About Me
 
-<div  style="margin-right: 40px;">
+I started programming by creating custom mods and websites for Minecraft servers. Since then, my journey has taken me through software consulting, mobile and backend development, and cloud architecture.
 
-## 🔊 Contact Me:
+I’m a lifelong learner fueled by curiosity and a drive to solve complex problems through elegant, practical solutions.
 
-- Discord: MarcosLourenco#1329
-- [Linkedin](https://www.linkedin.com/in/antoniolourencos/)
-- [Email](mailto:antonio.oficialcontato@gmail.com)
+---
 
-</div>
+## 📫 Let’s Connect!
 
-</div>
+- [LinkedIn](https://www.linkedin.com/in/antoniofiglio)  
+- [Email](mailto:antonio.oficialcontato@gmail.com)  
+
+---
+
+*“Continuous learning is the key to unlocking infinite possibilities.”*  
+— Antonio Filho
