@@ -18,40 +18,50 @@ A pet-tech platform I founded to connect pet owners with professionals and local
 **[Care Continuity](https://www.carecontinuity.com/)**  
 Building software for a US healthcare platform: clinical interfaces, reusable components, backend integrations and test automation. I also develop AI-assisted QA workflows using MCP and custom skills.
 
-### Hackathon highlights
+### Engineering impact
 
-- 🥈 **2nd place — [InovaHC Health Hackathon · HCFMUSP](https://www.linkedin.com/feed/update/urn:li:activity:7525660836481314817/)** — Healthcare innovation, built with a multidisciplinary team.
-- 🥉 **3rd place — [Devs de Impacto Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7388732522207215616/)** — Applying AI to real-world social challenges.
+At **Care Continuity**, my work has included:
 
-### What I use — and what it enables
+- **Reusable UI architecture:** approximately **30% less development effort** for new interface workflows through shared components.
+- **Faster production diagnostics:** Sentry integration helped bring issue detection from **hours to minutes**.
+- **AI-assisted QA:** workflows that turn natural-language requirements into test scenarios using **MCP and custom engineering skills**.
 
-| Work | Tools | What I build with them |
-| --- | --- | --- |
-| **Web experiences** | React, JavaScript, TypeScript, Next.js, Vite | Booking, onboarding and operational interfaces, with reusable components across portals. |
-| **APIs & data** | Node.js, Fastify, C# / .NET, PostgreSQL, MongoDB | Backend integrations, business rules and the data flows behind the interface. |
-| **Quality & delivery** | Playwright, Vitest, Sentry, Docker, Azure DevOps, Vercel | Regression coverage, production issue investigation and repeatable development and release workflows. |
-| **AI-assisted engineering** | Codex, Claude, MCP, custom skills | Connecting requirements, code, QA scenarios and review notes, with verification in the application. |
+[More about my experience ↗](https://www.linkedin.com/in/antoniofiglio/details/experience/)
 
-**Recent experience:** Python was also part of my professional work at **Orchid / SeedTrust**.
+### Technical focus
 
-### Learning & credentials
+- **Frontend:** React · JavaScript · TypeScript · Next.js · Vite
+- **Backend & data:** Node.js · Fastify · C# / .NET · PostgreSQL · MongoDB
+- **Testing & delivery:** Playwright · Vitest · Sentry · Docker · Azure DevOps · Vercel
+- **AI-assisted development:** Codex · Claude · MCP · custom skills
 
-- 🎓 **Interdisciplinar em Negócios — PUCPR:** degree in progress.
-- ☁️ **AWS AI Business Strategist:** currently preparing for the exam.
-- 🍃 **MongoDB course credentials:** [Node.js Developer Path](https://learn.mongodb.com/c/wZgL_jT1Q_StpguTm7ldbw), [Indexing Design Fundamentals](https://www.credly.com/badges/3e1aeab6-aa36-4d78-8200-7ac6da595329/linked_in_profile) and CRUD Operations in MongoDB.
-- 🗣️ **SmallTalk English Speaking Level Test — SmallTalk2Me.**
+**Previous experience:** Python at **Orchid / SeedTrust**.
 
-[View my credentials on LinkedIn ↗](https://www.linkedin.com/in/antoniofiglio/details/certifications/)
+### Hackathon podiums
+
+- 🥈 **2nd place — [InovaHC Health Hackathon · HCFMUSP](https://www.linkedin.com/feed/update/urn:li:activity:7525660836481314817/)**
+- 🥉 **3rd place — [Devs de Impacto Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7388732522207215616/)**
+
+### Education & credentials
+
+🎓 **PUCPR** — Interdisciplinar em Negócios · **In progress**  
+☁️ **AWS AI Business Strategist** — **Exam preparation**
+
+**Completed course credentials**
+- **MongoDB:** [Node.js Developer Path](https://learn.mongodb.com/c/wZgL_jT1Q_StpguTm7ldbw) · [Indexing Design Fundamentals](https://www.credly.com/badges/3e1aeab6-aa36-4d78-8200-7ac6da595329/linked_in_profile) · CRUD Operations in MongoDB
+- **SmallTalk2Me:** English Speaking Level Test
+
+[View credentials ↗](https://www.linkedin.com/in/antoniofiglio/details/certifications/)
 
 ### Languages
 
-| Portuguese | English | Spanish | Italian |
-| --- | --- | --- | --- |
-| Native / bilingual | Professional working | Full professional | Elementary |
+**Portuguese** — Native / bilingual · **English** — Professional working proficiency  
+**Spanish** — Full professional proficiency · **Italian** — Elementary
 
 ---
 
 <p align="center">
-  <sub>From Minecraft mods to healthcare software and KnoVet. Still curious. Still building.</sub><br><br>
-  <a href="https://www.linkedin.com/in/antoniofiglio/">Let's connect ↗</a>
+  <strong>Let's talk about engineering, healthcare and building useful software.</strong><br><br>
+  <a href="https://www.linkedin.com/in/antoniofiglio/">LinkedIn ↗</a> ·
+  <a href="mailto:antonio.oficialcontato@gmail.com">Email ↗</a>
 </p>
