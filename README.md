@@ -18,6 +18,11 @@ A pet-tech platform I founded to connect pet owners with professionals and local
 **Care Continuity**  
 Building frontend systems for a US healthcare platform: reusable interfaces, clinical workflows, observability and engineering tools. I also develop AI-assisted QA workflows using MCP and custom skills.
 
+### Hackathon highlights
+
+- 🥈 **2nd place — [InovaHC Health Hackathon · HCFMUSP](https://www.linkedin.com/feed/update/urn:li:activity:7525660836481314817/)** — Healthcare innovation, built with a multidisciplinary team.
+- 🥉 **3rd place — [Devs de Impacto Hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7388732522207215616/)** — Applying AI to real-world social challenges.
+
 ### My everyday toolkit
 
 ```ts
