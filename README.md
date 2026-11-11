@@ -35,8 +35,6 @@ At **Care Continuity**, my work has included:
 - **Testing & delivery:** Playwright · Vitest · Sentry · Docker · Azure DevOps · Vercel
 - **AI-assisted development:** Codex · Claude · MCP · custom skills
 
-**Previous experience:** Python at **Orchid / SeedTrust**.
-
 ### Hackathon podiums
 
 - 🥈 **2nd place — [InovaHC Health Hackathon · HCFMUSP](https://www.linkedin.com/feed/update/urn:li:activity:7525660836481314817/)**
